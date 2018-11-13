@@ -1,5 +1,5 @@
 # はじめに
-このリポジトリは [setup_jupyter_env](https://github.com/akioika/setup_datascience_env) で作成した Jyputer 環境で
+このリポジトリは [setup_jupyter_env](https://github.com/akioika/setup_datascience_env) で作成した jupyter 環境で
 
 - データ加工
 - クローリング
